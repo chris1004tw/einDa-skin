@@ -1,0 +1,12 @@
+LANG_POP_ACCOUNTS=POP帳號
+LANG_POP_CREATE=創建Email帳戶
+LANG_POP_MODIFY=更改Email帳戶
+LANG_POP_USERNAME=用戶名:
+LANG_EMAIL_QUOTA=Email磁盤配額(M):
+LANG_ZERO_UNLIMITED=(0代表不限制大小)
+LANG_NEW_PASS=輸入新密碼:
+LANG_LEAVE_BLANK=(只修改磁盤配額的話請留空)
+LANG_EMAIL_USAGE=E-Mail使用
+LANG_SEND_LIMIT=Send Limit
+LANG_SEND_LIMIT_DESC=Zero is unlimited. Blank will default to
+
